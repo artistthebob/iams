@@ -1,0 +1,16 @@
+{
+    "name": "iAM #3",
+    "id": "3",
+    "description": "iAMs are a representation of everything you can be or want to be. Lovingly handcrafted, every single iAM is carefully thought out as it's created. 464/500 minted, all 1/1.",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Class",
+            "value": "Vampire"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Fangs"
+        }
+    ]
+}
