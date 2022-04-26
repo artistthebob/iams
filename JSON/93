@@ -1,0 +1,32 @@
+{
+    "name": "iAM #93 Wizard",
+    "id": "93",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/93.png",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Magic"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Orphan"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Messy"
+        }
+    ]
+}
