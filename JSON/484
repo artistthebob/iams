@@ -23,11 +23,11 @@
         },
         {
             "trait_type": "Class",
-            "value": “Creature”
+            "value": "Creature"
         },
         {
             "trait_type": "Quirk",
-            "value": “Golden”
+            "value": "Golden"
         }
     ]
 }
