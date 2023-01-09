@@ -18,6 +18,10 @@
             "value": "Glowing"
         },
         {
+            "trait_type": "Quirk",
+            "value": "Golden"
+        },
+        {
             "trait_type": "Accessory",
             "value": "Jewelry"
         },
