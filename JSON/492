@@ -31,6 +31,10 @@
         },
         {
             "trait_type": "Quirk",
+            "value": "Interstellar"
+        },
+        {
+            "trait_type": "Quirk",
             "value": "Animated"
         }
     ]
