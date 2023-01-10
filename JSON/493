@@ -30,6 +30,10 @@
             "value": "Brain"
         },
         {
+            "trait_type": "Accessory",
+            "value": "Laser"
+        },
+        {
             "trait_type": "Hair",
             "value": "Anime"
         },
