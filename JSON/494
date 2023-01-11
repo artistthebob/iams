@@ -1,5 +1,29 @@
 {
     "name": "iAM #494",
     "id": "494",
-    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/999.png"
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/494.png",
+    "animation_url": "",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Fashion"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Whiskers"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Creature"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Fluffy"
+        }
+    ]
 }
