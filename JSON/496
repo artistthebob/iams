@@ -1,5 +1,37 @@
 {
-    "name": "iAM #496",
+    "name": "iAM #496 Cereal",
     "id": "496",
-    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/999.png"
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/496.png",
+    "animation_url": "",
+    "attributes": [
+        {
+            "trait_type": "Quirk",
+            "value": "Nickname"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Edible"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Loot"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cape"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Elemental"
+        },
+        {
+            "trait_type": "Quirk",
+            "value": "Rainbow"
+        }
+    ]
 }
